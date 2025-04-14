@@ -8,4 +8,4 @@ This is the beginning of my **Python** learning. I'm completely new to Python an
 --> Variables and data types
 --> Input/output functions
 --> Operators(arithematic, comparision, logical)
---> 
+--> Logical conditions
